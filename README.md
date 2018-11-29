@@ -8,4 +8,10 @@ There are two options:
 
 # First option (easier but limited and slower to run at times):
 
-    1. Download Oracle VM VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads)
+1. Download Oracle VM VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
+2. Install it accordingly.
+3. Once you've opened the program after installation create a new machine by clicking on New.
+
+![Screenshot](VM1.png)
+
+4. 
