@@ -6,7 +6,7 @@ There are two options:
 2. Install as an OS alongside Windows
 
 
-# First option (easier but limited and slower to run at times):
+# First option: VM (easier but limited and slower to run at times):
 
 1. Download Oracle VM VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads).
 2. Install it accordingly.
@@ -37,4 +37,28 @@ There are two options:
 9. Choose the size as large as you can have on your system (30GB should be enough).
 
 ![Screenshot](VM7.png)
+
+10. After creating the machine double click on it to start it.
+
+![Screenshot](VM8.png)
+
+11. You need to download ubuntu 18.04 iso disk file from [here](http://releases.ubuntu.com/18.04.1/)
+
+12. Select the file you just downloaded for the VM to boot from.
+
+![Screenshot](VM9.png)
+
+13. Instal Ubuntu.
+
+![Screenshot](VM10.png)
+
+14. Select the options like so:
+
+![Screenshot](VM11.png)
+
+15. Continue with default selection (Erase disk and install Ubuntu).
+
+All done.
+
+# Second option: Dual Boot (a bit harder to do depending on your system but runs much better and is not limited like the VM.)
 
