@@ -2,8 +2,8 @@
 
 There are two options:
 
-1. Install as a virtual machine
-2. Install as an OS alongside Windows
+1. [Install as a virtual machine](https://github.com/farbod1277/tutorials#first-option-vm-easier-but-limited-and-slower-to-run-at-times)
+2. [Install as an OS alongside Windows](https://github.com/farbod1277/tutorials#second-option-dual-boot-a-bit-harder-to-do-depending-on-your-system-but-runs-much-better-and-is-not-limited-like-the-vm)
 
 
 # First option: VM (easier but limited and slower to run at times):
