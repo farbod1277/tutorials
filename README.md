@@ -64,6 +64,6 @@ All done.
 
 Note that I've done this on a Surface Pro 2017 with Windows 10 installed, it might be a little different depending on your system.
 
-1. Make sure you have enough space on your device for Ubuntu to be installed (at the very least 10GB, but 30GB and above is preffered)
+1. Follow the instructions [here](https://www.reddit.com/r/SurfaceLinux/comments/7kb1ky/guide_installing_linux_on_surfaceseries_devices/) up to and including step 7 for surface devices and up to and including step 5 for non-surface devices.
 
-2. 
+Please be warned that this could cause loss of data and I can't be held accountable. Be careful and do your own research :)
