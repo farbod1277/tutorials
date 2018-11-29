@@ -14,4 +14,27 @@ There are two options:
 
 ![Screenshot](VM1.png)
 
-4. 
+4. Choose Ubuntu for your virtual machine's OS.
+
+![Screenshot](VM2.png)
+
+5. Allocate as much RAM possible (in the green area) for best performance of the VM.
+
+![Screenshot](VM3.png)
+
+6. Create a virtual hard disk.
+
+![Screenshot](VM4.png)
+
+7. Choose VDI.
+
+![Screenshot](VM5.png)
+
+8. Choose Dynamically Allocated
+
+![Screenshot](VM6.png)
+
+9. Choose the size as large as you can have on your system (30GB should be enough).
+
+![Screenshot](VM7.png)
+
