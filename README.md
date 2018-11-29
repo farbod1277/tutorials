@@ -1,4 +1,4 @@
-# A guide to installing Ubuntu 18.04:
+# A guide to installing Ubuntu 18.04 and getting up and runnuing with ROS:
 
 There are two options:
 
@@ -67,3 +67,15 @@ Note that I've done this on a Surface Pro 2017 with Windows 10 installed, it mig
 1. Follow the instructions [here](https://www.reddit.com/r/SurfaceLinux/comments/7kb1ky/guide_installing_linux_on_surfaceseries_devices/) up to and including step 7 for surface devices and up to and including step 5 for non-surface devices.
 
 Please be warned that this could cause loss of data and I can't be held accountable. Be careful and do your own research :)
+
+# Installing ROS:
+
+After you've got your Linux 18.04 up and running (either as a VM or as a dual boot), you can go ahead and familiarise yourself with it and start installing ROS:
+
+1. Follow the instructions [here](http://wiki.ros.org/melodic/Installation/Ubuntu) for ROS Melodic.
+
+2. After you've installed ROS, you may start doing the tutorials on ROS's website to get to know how it works and why it's useful.
+
+Enjoy! :)
+
+Signed: Farbod Torabi
