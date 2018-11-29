@@ -56,9 +56,14 @@ There are two options:
 
 ![Screenshot](VM11.png)
 
-15. Continue with default selection (Erase disk and install Ubuntu).
+15. Continue with default selections until the installation is complete.
 
 All done.
 
 # Second option: Dual Boot (a bit harder to do depending on your system but runs much better and is not limited like the VM.)
 
+Note that I've done this on a Surface Pro 2017 with Windows 10 installed, it might be a little different depending on your system.
+
+1. Make sure you have enough space on your device for Ubuntu to be installed (at the very least 10GB, but 30GB and above is preffered)
+
+2. 
